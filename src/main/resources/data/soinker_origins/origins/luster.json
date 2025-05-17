@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "soinker_origins:better_jump"
+
+  ],
+  "icon": {
+    "id": "minecraft:slime_ball"
+  },
+  "order": 100,
+  "impact": 2
+}
